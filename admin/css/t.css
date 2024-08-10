@@ -1,0 +1,26 @@
+.a{
+    background-color: rgb(232, 125, 239);
+ 
+    color:white;
+    box-shadow: none;
+    padding: 7px 19px;    
+    border: none;
+    outline: none;
+    font-size: 16px;
+    margin-right: 5px;
+}
+.b{
+    
+    background-color: rgb(232, 125, 239);
+ 
+    color:white;
+    box-shadow: none;
+    padding: 6px 23px;    
+    border: none;
+    outline: none;
+    font-size: 16px;
+}
+
+
+
+
